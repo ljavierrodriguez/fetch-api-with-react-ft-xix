@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "name": "Luis J.",
+      "lastname": "Rodriguez O.",
+      "id": 1
+    },
+    {
+      "name": "John",
+      "lastname": "Doe",
+      "id": 2
+    },
+    {
+      "name": "Jane",
+      "lastname": "Doe",
+      "id": 3
+    },
+    {
+      "id": 5,
+      "name": "Tommy",
+      "lastname": "Doe"
+    }
+  ],
+  "todos": [
+    {
+      "id": 1,
+      "label": "Comprar Pan"
+    }
+  ]
+}
